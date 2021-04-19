@@ -20,7 +20,7 @@ Outline:
 <div>
 <img src="matrix_multiplication/cat.jpg" width="400px" style="float:left"><br>
 <p >
-You probably heard before about the Schrödinger's cat, Schrödinger's cat is a thought experiment that asks a question, is the cat, which is inside the box, alive or dead?<br>
+You probably heard before about the Schrödinger's cat, Schrödinger's cat is a thought experiment that asks a question, is the cat, which is inside a box, alive or dead?<br>
 Let's imagine you opened the box at time x-1, and you found the cat is alive, now you think that the cat is always alive,<br>
 but what if you opened the box at time x+1, and found that the cat is dead!!<br>
 know you know definitely that the car is alive at time x-1 and dead at time x+1, but what is her situation at time x?<br>
@@ -30,7 +30,7 @@ In the thought experiment, a hypothetical cat may be considered simultaneously b
 </div>
 <h1>Quantum computer</h1>
 <p >
-The experiment we view before is the main idea of the quantum computer.<br>
+The experiment we viewed before is the main idea of the quantum computer.<br>
 In normal computers, which we use nowadays, and are also known as classical computers, the data, or the bit, is either 0 or 1, on or of, it cannot be both, <br>
 that gives us one out of 2 to the power N possible permutations.<br>
 But by the quantum data, which is also known as a qubit, can be both 0 and 1 with All of 2 to the power N possible permutations.<br>

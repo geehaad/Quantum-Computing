@@ -58,7 +58,7 @@ Now we are ready to write the formal equation:
 
 <pre>
 <h1>Implement the outer product:</h1>
-<div style="font-size:18px">
+<div style="font-size:22px">
 We Will see how to write the code in python:
 <ul>
 
@@ -73,13 +73,12 @@ With : O(n^3)
     <p > The main idea here is to iterate over the rows of the first matrix and the columns of the second matrix,then apply the function we produce before.</p>
 </pre>
 </div>
-<div style=" text-align: center;"> <img src="img/giphy.gif" width="500px"></div>
 </ul>
 
 </pre>
 
 <h2>Quantum computer</h2>
-<pre style="font-size:20px">
+<pre style="font-size:22px">
 as we did before in classical linear algebra, the multiplication is the same, but it differes in that we get the transpose of the second matrix, we will use the vectore|matrix notation
 let's get the transpose of the matrix:
 def trans(matrix):
@@ -91,7 +90,9 @@ def trans(matrix):
 </pre>
 
 </pre>
+<div style=" text-align: center;"> <img src="img/giphy.gif" width="500px"></div>
 <footer>
   <p>See the article in <a href="https://dev.to/geehaad/quantum-computing-2a1h">dev</a></p>
 </footer>
+
 </body>

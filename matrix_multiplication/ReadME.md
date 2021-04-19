@@ -72,7 +72,7 @@ With : O(n^3)
     <p > The main idea here is to iterate over the rows of the first matrix and the columns of the second matrix,then apply the function we produce before.</p>
 </pre>
 </div>
-<div style=" text-align: center;"> <img src="img/giphy.gif" width="500px"></div>
+
 </ul>
 
 </pre>
@@ -90,6 +90,7 @@ def trans(matrix):
 </pre>
 
 </pre>
+<div style=" text-align: center;"> <img src="img/giphy.gif" width="500px"></div>
 <footer>
   <p>See the article in <a href="https://dev.to/geehaad/quantum-computing-2a1h">dev</a></p>
 </footer>

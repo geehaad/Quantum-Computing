@@ -31,6 +31,8 @@ In the thought experiment, a hypothetical cat may be considered simultaneously b
 The experiment we view before is the main idea of the quantum computer.
 In normal computers, which we use nowadays, and are also known as classical computers, the data, or the bit, is either 0 or 1, on or of, it cannot be both, that gives us one out of 2 to the power N possible permutations.
 But by the quantum data, which is also known as a qubit, can be both 0 and 1 with All of 2 to the power N possible permutations.
+
+See the artical in https://dev.to/ : https://dev.to/geehaad/quantum-computing-2a1h
 </pre>
 
 <h1>Basic operation</h1>

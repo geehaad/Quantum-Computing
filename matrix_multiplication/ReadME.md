@@ -123,5 +123,7 @@ def trans(matrix):
 </pre>
 
 </pre>
-
+<footer>
+  <p>See the article in<a href="https://dev.to/geehaad/quantum-computing-2a1h">dev</a></p>
+</footer>
 </body>

@@ -11,6 +11,8 @@ Outline:
 </li>
 <li>Basic operations
 </li>
+<li>sumpy
+</li>
 </ul>
 
 <h1>Schrödinger's cat</h1>

@@ -78,7 +78,11 @@ With : O(n^3)
 </pre>
 
 <h2>Quantum computer</h2>
+<<<<<<< HEAD
 <pre style="font-size:22px">
+=======
+<pre style="font-size:20px">
+>>>>>>> eab6c8f7b529eabf43e08484ee118be9ba10f725
 as we did before in classical linear algebra, the multiplication is the same, but it differes in that we get the transpose of the second matrix, we will use the vectore|matrix notation
 let's get the transpose of the matrix:
 def trans(matrix):

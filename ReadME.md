@@ -11,7 +11,7 @@ Outline:
 </li>
 <li>Basic operations
 </li>
-<li>sumpy
+<li>SumPy
 </li>
 </ul>
 
